@@ -1,4 +1,4 @@
 loxone-scheduler
 ================
 
-Simple scheduler to control the Loxone miniserver
+Basic scheduler for lights controller by Loxone miniserver

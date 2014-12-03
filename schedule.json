@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "light_switch": "outside_front",
+      "method": "switch_on",
+      "options": {
+        "hour": 16,
+        "minute": 30
+      }
+    }
+
+   ,{
+      "light_switch": "outside_front",
+      "method": "switch_off",
+      "options": {
+        "hour": 23,
+        "minute": 30
+      }
+    }
+
+  ]
+}

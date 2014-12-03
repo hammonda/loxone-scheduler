@@ -1,0 +1,14 @@
+{
+  "name": "loxone-scheduler",
+  "version": "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/hammonda/loxone-scheduler.git"
+  },
+  "dependencies": {
+    "async": "",
+    "request": "",
+    "node-schedule": "",
+    "underscore": ""
+  }
+}
