@@ -1,7 +1,7 @@
 var home     = require('./lib/home');
 var schedule = require('./lib/schedule');
 
-// COMAND LINE ARGUMENTS
+// COMMAND LINE ARGUMENTS
 // 1: Username
 // 2: Password
 // 3: Home Config Path
