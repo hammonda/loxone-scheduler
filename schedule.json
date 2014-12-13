@@ -7,16 +7,110 @@
         "hour": 16,
         "minute": 30
       }
-    }
-
-   ,{
+    },
+    {
       "light_switch": "outside_front",
       "method": "switch_off",
       "options": {
         "hour": 23,
         "minute": 30
       }
+    },
+    {
+      "light_switch": "bed_2",
+      "method": "switch_on",
+      "options": {
+        "hour": 20,
+        "minute": 30
+      }
+    },
+    {
+      "light_switch": "bed_2",
+      "method": "switch_off",
+      "options": {
+        "hour": 1,
+        "minute": 30
+      }
+    },
+    {
+      "light_switch": "master_bed",
+      "method": "switch_on",
+      "options": {
+        "hour": 22,
+        "minute": 30
+      }
+    },
+    {
+      "light_switch": "master_bed",
+      "method": "switch_off",
+      "options": {
+        "hour": 22,
+        "minute": 50
+      }
+    },
+    {
+      "light_switch": "master_bed",
+      "method": "switch_on",
+      "options": {
+        "hour": 6,
+        "minute": 30
+      }
+    },
+    {
+      "light_switch": "master_bed",
+      "method": "switch_off",
+      "options": {
+        "hour": 6,
+        "minute": 45
+      }
+    },
+    {
+      "light_switch": "basement_stairs",
+      "method": "switch_on",
+      "options": {
+        "hour": 19,
+        "minute": 0
+      }
+    },
+    {
+      "light_switch": "basement_stairs",
+      "method": "switch_off",
+      "options": {
+        "hour": 20,
+        "minute": 30
+      }
+    },
+    {
+      "light_switch": "ground_hallway",
+      "method": "switch_on",
+      "options": {
+        "hour": 19,
+        "minute": 0
+      }
+    },
+    {
+      "light_switch": "ground_hallway",
+      "method": "switch_off",
+      "options": {
+        "hour": 20,
+        "minute": 0
+      }
+    },
+    {
+      "light_switch": "study",
+      "method": "switch_on",
+      "options": {
+        "hour": 21,
+        "minute": 30
+      }
+    },
+    {
+      "light_switch": "study",
+      "method": "switch_off",
+      "options": {
+        "hour": 22,
+        "minute": 30
+      }
     }
-
   ]
 }

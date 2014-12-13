@@ -8,6 +8,7 @@
     "outside_front": [ "b53fb1da-1151-11e3-9783e599e48bb4e4", "02780018.I6" ],
     "ground_hallway": [ "ba847810-1151-11e3-9783e599e48bb4e4", "02780018.I5"],
     "first_floor_landing": [ "606b1c4e-1151-11e3-9783e599e48bb4e4", "02780019.I1" ],
-    "basement_stairs": [ "b53faa0a-1151-11e3-9783e599e48bb4e4", "02880060.I3" ]
+    "basement_stairs": [ "b53faa0a-1151-11e3-9783e599e48bb4e4", "02880060.I3" ],
+    "master_bed": ["c7dfb47a-1151-11e3-9783e599e48bb4e4", "01780304.I8"]
   }
 }
